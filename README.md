@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josue Diaz
-- 👀 I’m interested in cyber security, software engineering 
-- 🌱 I’m currently learning machine organzition, programming practicum
-- 💞️ I’m looking to have the opportunity for a summer internship
+- 👀 I’m interested in software engineering, data science, database systems
+- 💞️ I’m looking to have the opportunity for a full-time offer or an internship
 - 📫 How to reach me josue13diaz57@gmail.com
 
 <!---
